@@ -20719,9 +20719,9 @@
     "restore": {
       "projectUniqueName": "TestAutomationOps",
       "projectName": "TestAutomationOps",
-      "projectPath": "C:\\Users\\Administrator\\Documents\\UiPath\\TestAutomationOps\\TestAutomationOps\\.local",
+      "projectPath": "C:\\Users\\Administrator\\Documents\\UiPath\\TestAutomationOps\\.local",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Administrator\\Documents\\UiPath\\TestAutomationOps\\TestAutomationOps\\.local"
+      "outputPath": "C:\\Users\\Administrator\\Documents\\UiPath\\TestAutomationOps\\.local"
     },
     "frameworks": {
       "net6.0-windows7.0": {
